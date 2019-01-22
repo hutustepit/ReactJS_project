@@ -63,6 +63,9 @@ class App extends Component {
             removePlayer = {this.handleRemovePlayer}
             changeScore = {this.handleChangeScore}
             score = {player.score}
+
+            isMax={player.isMax}
+            //setMax={this.setIsMax}
           />
         ))}
 

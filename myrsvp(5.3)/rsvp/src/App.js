@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-//import 'src/app.js';
+import './src/app.js';
 
 const state = {
 
